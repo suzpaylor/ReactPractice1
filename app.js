@@ -66,7 +66,7 @@ const planets = [
 ];
 
 // =============================================================
-//   WRITE YOUR CODE BELOW
+//   WRITE YOUR CODE BELOW - START PRACTICE EXERCISE
 // =============================================================
 
 // 1: Create a 'Planet' component that renders a planet card
